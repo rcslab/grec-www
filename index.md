@@ -47,6 +47,7 @@ Supervisor | Areas
 [Nancy Day](https://cs.uwaterloo.ca/~nday/) | Formal Methods, Logic, Software Engineering, Software Modelling, State Diagrams, Requirements, Specifications
 [Alice Gao](https://cs.uwaterloo.ca/~a23gao/) | Artificial Intelligence, Game Theory, CS Education, and Peer Evaluations
 [Ian Goldberg](https://cs.uwaterloo.ca/~iang/) | Privacy Enhancing Technologies
+[Xi He](https://cs.uwaterloo.ca/~xihe/) | Privacy and Security for Big Data Management and Analysis
 [Urs Hengartner](https://cs.uwaterloo.ca/~uhengart/) | Security and Privacy for Smartphones and Mobile Applications
 [Jesse Hoey](https://cs.uwaterloo.ca/~jhoey/) | Affective Computing, Health Informatics, Artificial Intelligence
 [Ihab Ilyas](https://cs.uwaterloo.ca/~ilyas/) | Machine Learning for Big Data Curation, Data Science, Large Scale Data Management
