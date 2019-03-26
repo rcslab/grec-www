@@ -19,7 +19,7 @@ For fall 2019 fellowships the application deadline is June 30, 2019 (11:59 PM). 
 
 1. Check eligibility stated above.  Make sure you are eligible before taking the following steps.
 2. Prepare a CV/Resume and a one page personal statement.
-3. Complete the registration form online.  [https://urf.rcs.uwaterloo.ca/hotcrp/urf-19f](https://urf.rcs.uwaterloo/ca/hotcrp/urf-19f)
+3. Complete the registration form online.  [Submission Site](https://urf.rcs.uwaterloo.ca/hotcrp/urf-19f)
 4. Students are encouraged to find an advisor and indicate this on their statement.  In this case, advisors should write a one page letter of endorsement.
 
 Fellowship Details
