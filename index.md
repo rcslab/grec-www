@@ -15,7 +15,8 @@ Note: International Students need a SIN# to work in Canada
 How to Apply?
 -------------
 
-For fall 2019 fellowships the application deadline is June 30, 2019 (11:59 PM).  Future deadlines will be posted for Winter 2020 and Spring 2020 fellowships.
+For fall 2019 fellowships the application deadline is June 10, 2019 (11:59 PM).  
+Future deadlines will be posted for Winter 2020 and Spring 2020 fellowships.
 
 1. Check eligibility stated above.  Make sure you are eligible before taking the following steps.
 2. Prepare a CV/Resume and a one page personal statement.
