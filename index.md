@@ -41,7 +41,7 @@ Frequently Asked Questions
 You can connect with an advisor in multiple ways. You can approach a faculty 
 member and inquiry about their current research project, or you can review the 
 following list of advisors and their areas of interest 
-https://urfs.cs.uwaterloo.ca 
+https://urf.cs.uwaterloo.ca 
 
 * **Do I need to have a recommendation letter when I apply?**
 
