@@ -15,12 +15,12 @@ Note: International Students need a SIN# to work in Canada
 How to Apply?
 -------------
 
-For fall 2019 fellowships the application deadline is June 10, 2019 (11:59 PM).  
-Future deadlines will be posted for Winter 2020 and Spring 2020 fellowships.
+For Winter 2020 fellowships the application deadline is September 20, 2019 
+(11:59 PM).  Future deadlines will be posted for Spring 2020 fellowships.
 
 1. Check eligibility stated above.  Make sure you are eligible before taking the following steps.
 2. Prepare a CV/Resume and a one page personal statement.
-3. Complete the registration form online.  [Submission Site](https://urf.rcs.uwaterloo.ca/hotcrp/urf-19f)
+3. Complete the registration form online.  [Submission Site](https://urf.rcs.uwaterloo.ca/hotcrp/urf-20w)
 4. Students are encouraged to find an advisor and indicate this on their statement.  In this case, advisors should write a one page letter of endorsement.
 
 Fellowship Details
@@ -32,6 +32,52 @@ Students will receive a minimum of $15,000/term for their co-op placement
 * NSERC USRA + faculty to top up the difference
 
 Example: Student X is awarded a research fellowship for a term, the school will provide $7,500 toward their salary.  If they receive an NSERC USRA for $4,500, then the supervisor would need to contribute at least $3,000.  If the student does not get NSERC USRA, the supervisor would need to contribute at least $7,500.
+
+Frequently Asked Questions
+--------------------------
+
+* **How can I connect with a supervisor?**
+
+You can connect with an advisor in multiple ways. You can approach a faculty 
+member and inquiry about their current research project, or you can review the 
+following list of advisors and their areas of interest 
+https://urfs.cs.uwaterloo.ca 
+
+* **Do I need to have a recommendation letter when I apply?**
+
+Yes. We will only accept students who are endorsed by a faculty member.
+
+* **Can a non-CS faculty member endorse me?**
+
+No. Preference will be given to those endorsed by a CS faculty member. 
+
+* **What should I include in my personal statement?**
+
+We want to hear what you are passionate about and why you want to pursue a work 
+term in research. 
+
+* **When will candidates be selected for this role?**
+
+This term we will be aligning our recruitment timelines with Waterloo Works and 
+intend on notifying successful candidates before rankings are released.
+
+* **Do I need prior research experience to be eligible?**
+
+No! We accept both candidates with and without prior research experience. Just 
+tell us why you have a keen interest in research on your personal statement.
+
+* **Will applying through the URF website and Waterloo Works increase my 
+  chances of being selected?**
+
+No. We encourage students to select one pathway when applying.
+
+* **Can I apply if I am not a Computer Science student?**
+
+Yes, you can still apply as long as a CS faculty member endorses you.
+
+* **I am an international student, can I still apply?**
+
+Yes, as long as you have a work permit, you can apply.
 
 Potential Supervisors
 ---------------------
