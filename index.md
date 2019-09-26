@@ -92,7 +92,6 @@ Supervisor | Areas
 [Tim Brecht](https://cs.uwaterloo.ca/~brecht/) | Performance, Distributed Systems, Streaming Video, Wireless Networks, Internet of Things
 [Khuzaima Daudjee](https://cs.uwaterloo.ca/~kdaudjee/) | Cloud and Big Data Systems
 [Nancy Day](https://cs.uwaterloo.ca/~nday/) | Formal Methods, Logic, Software Engineering, Software Modelling, State Diagrams, Requirements, Specifications
-[Alice Gao](https://cs.uwaterloo.ca/~a23gao/) | Artificial Intelligence, Game Theory, CS Education, and Peer Evaluations
 [Ian Goldberg](https://cs.uwaterloo.ca/~iang/) | Privacy Enhancing Technologies
 [Xi He](https://cs.uwaterloo.ca/~xihe/) | Privacy and Security for Big Data Management and Analysis
 [Urs Hengartner](https://cs.uwaterloo.ca/~uhengart/) | Security and Privacy for Smartphones and Mobile Applications
