@@ -15,12 +15,12 @@ Note: International Students need a SIN# to work in Canada
 How to Apply?
 -------------
 
-For Winter 2020 fellowships the application deadline is September 24, 2019 
-(11:59 PM).  Future deadlines will be posted for Spring 2020 fellowships.
+For Spring 2020 fellowships the application deadline is January 21, 2020 (11:59 
+PM).  Future deadlines will be posted later.
 
 1. Check eligibility stated above.  Make sure you are eligible before taking the following steps.
 2. Prepare a CV/Resume and a one page personal statement.
-3. Complete the registration form online.  [Submission Site](https://urf.rcs.uwaterloo.ca/hotcrp/urf-20w)
+3. Complete the registration form online.  [Submission Site](https://urf.rcs.uwaterloo.ca/hotcrp/urf-20s)
 4. Students are encouraged to find an advisor and indicate this on their statement.  In this case, advisors should write a one page letter of endorsement.
 
 Fellowship Details
