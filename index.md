@@ -15,12 +15,11 @@ Note: International Students need a SIN# to work in Canada
 How to Apply?
 -------------
 
-For Spring 2020 fellowships the application deadline is January 21, 2020 (11:59 
-PM).  Future deadlines will be posted later.
+For Summer 2020 fellowships the application the interviews will process through the Co-op office.  Future deadlines will be posted later.
 
 1. Check eligibility stated above.  Make sure you are eligible before taking the following steps.
 2. Prepare a CV/Resume and a one page personal statement.
-3. Complete the registration form online.  [Submission Site](https://urf.rcs.uwaterloo.ca/hotcrp/urf-20s)
+3. Complete the submission through the Co-op office
 4. Students are encouraged to find an advisor and indicate this on their statement.  In this case, advisors should write a one page letter of endorsement.
 
 Fellowship Details
