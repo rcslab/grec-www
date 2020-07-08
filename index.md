@@ -106,7 +106,6 @@ Supervisor | Areas
 [Ali Mashtizadeh](https://rcs.uwaterloo.ca/~ali/) | Operating Systems, Distributed Systems, Storage, Architecture, and Compilers
 [Mei Nagappan](https://cs.uwaterloo.ca/~m2nagapp/) | Software Engineering: Mining Software Repositories, Mobile App Market Analytics, Software Bots
 [Naomi Nishimura](https://cs.uwaterloo.ca/~nishi/) | Graphics Algorithms, Fixed-Parameter Tractability, Combinatorial Reconfiguration
-[Jeff Orchard](https://cs.uwaterloo.ca/~jorchard/) | Computational Neuroscience, Neural Networks
 [Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/) | Machine Learning, Artificial Intelligence, Health Informatics
 [Gregor Richards](http://the.gregor.institute/) | Programming Languages, Dynamic Languages, JavaScript, JIT, Gradual Typing
 [Semih Salihoglu](https://cs.uwaterloo.ca/~ssalihog/) | Problems in Large-Scale Data Processing with a Focus on Graph Data
